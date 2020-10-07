@@ -1,10 +1,10 @@
 body {
-    background-color: tomato;
+    background-color: tomato !important;
 }
 
 #content {
     display: inline-block;
-    max-height: 50vh;
+    max-height: 50vh; /* 50% de la hauteur de la zone d'affichage */
     max-width: 200px;
     overflow-y: scroll;
 }
