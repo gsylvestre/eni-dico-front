@@ -1,0 +1,10 @@
+body {
+    background-color: tomato;
+}
+
+#content {
+    display: inline-block;
+    max-height: 50vh;
+    max-width: 200px;
+    overflow-y: scroll;
+}
